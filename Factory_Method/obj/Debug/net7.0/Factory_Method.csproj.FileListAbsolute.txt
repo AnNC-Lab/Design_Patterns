@@ -1,0 +1,15 @@
+E:\HocTap\C#\DesignPattern\Factory_Method\bin\Debug\net7.0\Factory_Method.exe
+E:\HocTap\C#\DesignPattern\Factory_Method\bin\Debug\net7.0\Factory_Method.deps.json
+E:\HocTap\C#\DesignPattern\Factory_Method\bin\Debug\net7.0\Factory_Method.runtimeconfig.json
+E:\HocTap\C#\DesignPattern\Factory_Method\bin\Debug\net7.0\Factory_Method.dll
+E:\HocTap\C#\DesignPattern\Factory_Method\bin\Debug\net7.0\Factory_Method.pdb
+E:\HocTap\C#\DesignPattern\Factory_Method\obj\Debug\net7.0\Factory_Method.csproj.AssemblyReference.cache
+E:\HocTap\C#\DesignPattern\Factory_Method\obj\Debug\net7.0\Factory_Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocTap\C#\DesignPattern\Factory_Method\obj\Debug\net7.0\Factory_Method.AssemblyInfoInputs.cache
+E:\HocTap\C#\DesignPattern\Factory_Method\obj\Debug\net7.0\Factory_Method.AssemblyInfo.cs
+E:\HocTap\C#\DesignPattern\Factory_Method\obj\Debug\net7.0\Factory_Method.csproj.CoreCompileInputs.cache
+E:\HocTap\C#\DesignPattern\Factory_Method\obj\Debug\net7.0\Factory_Method.dll
+E:\HocTap\C#\DesignPattern\Factory_Method\obj\Debug\net7.0\refint\Factory_Method.dll
+E:\HocTap\C#\DesignPattern\Factory_Method\obj\Debug\net7.0\Factory_Method.pdb
+E:\HocTap\C#\DesignPattern\Factory_Method\obj\Debug\net7.0\Factory_Method.genruntimeconfig.cache
+E:\HocTap\C#\DesignPattern\Factory_Method\obj\Debug\net7.0\ref\Factory_Method.dll
